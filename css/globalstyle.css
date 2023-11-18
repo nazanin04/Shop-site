@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "regular";
+    src: url("../fonts/Rokh-Regular.woff2");
+}
+@font-face {
+  font-family: "bold";
+  src: url("../fonts/Rokh-Bold.woff2");
+}
+@font-face {
+  font-family: "semi-bold";
+  src: url("../fonts/Rokh-SemiBold.woff2");
+}
+@font-face {
+  font-family: "ultra-bold";
+  src: url("../fonts/Rokh-UltraBold.woff2");
+}
+p{
+  direction: rtl;
+}
+
+html{
+  overflow-x: hidden;
+}
+body{
+  overflow-x: hidden;
+}
+
+a{
+  text-decoration: none;
+}
